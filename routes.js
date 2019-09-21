@@ -2,7 +2,7 @@
 const HOME = "/";
 const JOIN = "/join";
 const LOGIN = "/login";
-const LOGOUT = "logout";
+const LOGOUT = "/logout";
 const SEARCH = "/search";
 
 // Users
